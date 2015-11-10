@@ -9,6 +9,7 @@
                 <a href="status-bar-color.php" class="list-group-item link-item">Mudar a cor do texto na barra de status</a>
                 <a href="amazon-apns.php" class="list-group-item link-item">Amazon APNs</a>
                 <a href="change-name-app.php" class="list-group-item link-item">Mudando o nome do aplicativo</a>
+                <a href="custom-navbar.php" class="list-group-item link-item">Custom Navbar</a>
             </div>
         </div>
     </div>
