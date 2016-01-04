@@ -10,6 +10,7 @@
                 <a href="amazon-apns.php" class="list-group-item link-item">Amazon APNs</a>
                 <a href="change-name-app.php" class="list-group-item link-item">Mudando o nome do aplicativo</a>
                 <a href="custom-navbar.php" class="list-group-item link-item">Custom Navbar</a>
+                <a href="lightwheight-coredata-migration.php" class="list-group-item link-item">Lightwheight CoreData Migration</a>
             </div>
         </div>
     </div>
