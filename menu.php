@@ -12,6 +12,7 @@
                 <a href="custom-navbar.php" class="list-group-item link-item">Custom Navbar</a>
                 <a href="lightwheight-coredata-migration.php" class="list-group-item link-item">Lightwheight CoreData Migration</a>
                 <a href="launch-screen.php" class="list-group-item link-item">Launch Screen with Story Board</a>
+                <a href="renew-ios-certificatelaunch-screen.php" class="list-group-item link-item">Renew iOS Distributions Certificate</a>
             </div>
         </div>
     </div>
